@@ -6,6 +6,6 @@
 
 ## Run run dev (For nodemon)
 
-## Connect with database at the port in the application
+## Run (mongod) command in \MongoDB\Server\bin
 
 #### You are good to go with backend :)
